@@ -1,0 +1,28 @@
+{
+  "name": "mom-tracker",
+  "version": "0.0.1",
+  "description": "A iCloud find my iphone tracker app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "electron .",
+    "start": "electron ."
+  },
+  "keywords": [
+    "icloud",
+    "electron",
+    "iphone",
+    "find-my-iphone",
+    "find",
+    "my",
+    "iphone",
+    "web",
+    "nodejs"
+  ],
+  "author": "Misha Marinenko",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "electron": "^2.0.10",
+    "find-my-iphone": "^1.1.1",
+    "vue": "^2.5.17"
+  }
+}
